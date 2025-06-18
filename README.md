@@ -91,7 +91,7 @@ SHOW SLAVE STATUS\G;
 
 #### На мастере: 
 ```sql
-create database hw_12_6_Golikov;
+create database hw_12_6_Golotvin;
 ```
 #### На слэйве:
 ```sql
