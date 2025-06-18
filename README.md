@@ -86,7 +86,8 @@ START SLAVE;
 ```sql
 SHOW SLAVE STATUS\G;
 ```
-![2-2](https://github.com/user-attachments/assets/886d43ab-632e-41b7-93ff-980c49f1b9be)
+<img width="547" alt="2-2" src="https://github.com/user-attachments/assets/27417e1f-d465-459c-8921-eeb8d035f85d" />
+
 
 #### На мастере: 
 ```sql
